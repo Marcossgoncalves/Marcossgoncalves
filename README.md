@@ -1,6 +1,6 @@
 # 👨‍💻 Marcos Goncalves 
 
-**`Desenvolvedora FullStack`**
+**`Desenvolvedor FullStack`**
 
 Me chamo Marcos Goncalves. Concluí o ensino médio no CETEP, com o curso técnico em Adminitraçao. Atualmente, estou cursando Engeharia de Software na UNICESUMAR. Sou apaixonada por tecnologia e compartilho meu conhecimento através do meu Github, onde crio os meus trablhaos academicos e projetos como Freelance para diversas empresas.
 <p align="left">
